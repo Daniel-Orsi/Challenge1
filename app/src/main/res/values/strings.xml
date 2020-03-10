@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Challenge1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro">This is an App created from a challenge I read on Linkedin. The slogan was:</string>
+    <string name="quiz">Paper Cut into Minimum Number of Squares Given a paper of size A x B. Task is to cut the paper into squares of any size. Find the minimum number of squares that can be cut from the paper.</string>
+    <string name="bt_text">calculate</string>
+</resources>
